@@ -1,7 +1,4 @@
-# Exploratory Data Analysis: Internship Applicant Profile
-
-![Project Cover Image](LINK_TO_YOUR_COVER_IMAGE.png)
-*Note: You can upload your project cover image (the dashboard screenshot) to this repository and link it here to make your README more engaging.*
+# Exploratory Data Analysis: Internship Applicant Profile*
 
 ## Project Overview
 
@@ -21,8 +18,8 @@ This project is an end-to-end exploratory data analysis (EDA) case study perform
 
 ## 📂 Repository Contents
 
-1.  **`Your_Report_Filename.pdf`**: The final report containing all data visualizations, in-depth analysis, key findings, and strategic recommendations.
-2.  **`Your_Excel_Filename.xlsx`**: The complete Excel workbook, which includes:
+1.  **`Applicant Data & Workspace.pdf`**: The final report containing all data visualizations, in-depth analysis, key findings, and strategic recommendations.
+2.  **`Analysis Report.xlsx`**: The complete Excel workbook, which includes:
     *   The raw, uncleaned data.
     *   The cleaned and prepared dataset.
     *   A sheet with all PivotTable analyses.
